@@ -1,0 +1,11 @@
+apiVersion: v2
+appVersion: "0.1.0"
+description: A Helm chart that generalizes the deployment of a training session
+name: training-chart-test
+version: "0.1.0" # Placeholder, replaced by CI
+home: https://git.sia-partners.com/nathan.capiaux/training-chart-test
+sources:
+  - https://git.sia-partners.com/nathan.capiaux/training-chart-test
+maintainers:
+- name: Nathan Capiaux
+  email: nathan.capiaux@sia-partners.com
